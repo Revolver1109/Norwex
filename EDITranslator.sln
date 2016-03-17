@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EDITranslator", "EDITranslator\EDITranslator.csproj", "{72C54012-50DD-4A3B-97EC-FAF9E18227C2}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = EDITranslator\\EDITranslator.csproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = EDITranslator\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72C54012-50DD-4A3B-97EC-FAF9E18227C2}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{72C54012-50DD-4A3B-97EC-FAF9E18227C2}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{72C54012-50DD-4A3B-97EC-FAF9E18227C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72C54012-50DD-4A3B-97EC-FAF9E18227C2}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{72C54012-50DD-4A3B-97EC-FAF9E18227C2}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{72C54012-50DD-4A3B-97EC-FAF9E18227C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72C54012-50DD-4A3B-97EC-FAF9E18227C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72C54012-50DD-4A3B-97EC-FAF9E18227C2}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{72C54012-50DD-4A3B-97EC-FAF9E18227C2}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

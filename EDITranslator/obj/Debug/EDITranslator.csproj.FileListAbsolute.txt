@@ -1,0 +1,9 @@
+C:\Users\jrkelley\Documents\Visual Studio 2012\Projects\EDITranslator\EDITranslator\bin\Debug\EDITranslator.exe.config
+C:\Users\jrkelley\Documents\Visual Studio 2012\Projects\EDITranslator\EDITranslator\bin\Debug\EDITranslator.exe
+C:\Users\jrkelley\Documents\Visual Studio 2012\Projects\EDITranslator\EDITranslator\bin\Debug\EDITranslator.pdb
+C:\Users\jrkelley\Documents\Visual Studio 2012\Projects\EDITranslator\EDITranslator\obj\Debug\EDITranslator.Form1.resources
+C:\Users\jrkelley\Documents\Visual Studio 2012\Projects\EDITranslator\EDITranslator\obj\Debug\EDITranslator.Properties.Resources.resources
+C:\Users\jrkelley\Documents\Visual Studio 2012\Projects\EDITranslator\EDITranslator\obj\Debug\EDITranslator.csproj.GenerateResource.Cache
+C:\Users\jrkelley\Documents\Visual Studio 2012\Projects\EDITranslator\EDITranslator\obj\Debug\EDITranslator.exe
+C:\Users\jrkelley\Documents\Visual Studio 2012\Projects\EDITranslator\EDITranslator\obj\Debug\EDITranslator.pdb
+C:\Users\jrkelley\Documents\Visual Studio 2012\Projects\EDITranslator\EDITranslator\obj\Debug\EDITranslator.csprojResolveAssemblyReference.cache
